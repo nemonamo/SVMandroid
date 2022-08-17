@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">SVM</string>
+    <string name="home">홈</string>
+    <string name="today">오늘</string>
+    <string name="now_day">월 일</string>
+    <string name="null_num">00</string>
+    <string name="now_vending">자판기 관리 현황</string>
+    <string name="set_point1">인문관</string>
+    <string name="set_point2">미디어랩스</string>
+    <string name="set_point3">학예관</string>
+    <string name="security_his">보안 카메라 내역 확인</string>
+    <string name="clean_his">청결 상태 확인</string>
+    <string name="Temp">온습도</string>
+    <string name="Tempnum">26.0c , 26.0%</string>
+    <string name="dust">먼지상태</string>
+    <string name="num_clean">00</string>
+    <string name="num_dust">00</string>
+    <string name="more">더보기</string>
+    <string name="setting">설정</string>
+    <string name="image">image</string>
+    <string name="num_inventory">00</string>
+    <string name="now_inventory">재고</string>
+    <string name="location_1">미디어랩스</string>
+
+    <string name="out_of_stock">재고 부족</string>
+    <string name="full_of_stock">재고 충분</string>
+    <string name="half_of_stock">재고 절반</string>
+
+    <string name="num_ofFoottraffic">00</string>
+    <string name="foottraffic">유동인구</string>
+    <string name="coinbox">동전함상태</string>
+    <string name="coin_full">가득참</string>
+    <string name="police_day">201515151</string>
+    <string name="nulloftext">텅</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_notification_channel_id">Channel ID</string>
+    <string name="fcm_message">test</string>
+    <string name="CHANNEL_ID">테스트</string>
+    <string name="channel_description">알림채널 설명</string>
+    <string name="channel_name">name</string>
+    <string name="num_selling">00</string>
+    <string name="now_selling">판매 개수</string>
+
+
+</resources>

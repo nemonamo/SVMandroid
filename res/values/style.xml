@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Sehun.NoActionBar"> //스타일 이름
+        <item name="windowNoTitle">true</item> //앱 바 설정(true:안 보이기)
+        <item name="windowActionBar">false</item> //
+        <item name="android:windowFullscreen">true</item> //전체 화면 설정(true:전체 화면 보기,false 원래대로 보기)
+        <item name="android:windowContentOverlay">@null</item> // 앱 바 그림자 없애기
+    </style>
+</resources>
